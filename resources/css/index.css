@@ -32,6 +32,7 @@ h4{
   font-size: 23px;
   font-weight: bold;
   color:white;
+  background-image: url("D:/Pierre/Web design/Projects/Broadway/resources/images/the-flatiron-building.png");
 }
 
 footer{
@@ -44,6 +45,6 @@ footer{
   color:white;
 }
 
-.header{
-  background-image: url("./resources/images/the-flatiron-building.png");
+#home{
+  background-image: url("D:/Pierre/Web design/Projects/Broadway/resources/images/the-flatiron-building.png");
 }
